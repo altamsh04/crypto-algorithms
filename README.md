@@ -3,7 +3,7 @@
 This repository contains implementations of various well-known cryptographic algorithms either in C++ or in Java . These algorithms span from basic ciphers to more advanced encryption techniques, serving as a comprehensive resource for learning and development in the field of cryptography. Whether you're a beginner looking to understand the fundamentals or an advanced user exploring sophisticated encryption methods, this repo has something for everyone.
 
 ### Algorithms Included ✅:
-1. **Caesar Cipher. (Upcoming)**
+1. **Caesar Cipher. ✅**
 2. **Playfair Cipher. (Upcoming)**
 3. **Vigenere Cipher. (Upcoming)**
 4. **Rail Fence Cipher. (Upcoming)**
