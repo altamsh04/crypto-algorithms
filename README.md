@@ -16,7 +16,7 @@ This repository contains implementations of various well-known cryptographic alg
 - **Readable and Well-Commented Code**: Each algorithm is implemented with clear comments to explain the logic.
 - **Test Cases**: Includes test cases to demonstrate how each algorithm works.
 - **Documentation**: Detailed documentation for each algorithm, including theoretical background and usage instructions.
-- **Cross-Platform**: Implementations are available in both C++, Java and Python.
+- **Cross-Platform**: Implementations are available in both C++ or Java.
 
 ### Contributions 🤝:
 Contributions are welcome! 🎉
