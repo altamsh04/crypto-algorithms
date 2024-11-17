@@ -1,6 +1,6 @@
 # Welcome to the `crypto-algorithms`! 🚀
 
-This repository contains implementations of various well-known cryptographic algorithms in both C++, Java and Python. These algorithms span from basic ciphers to more advanced encryption techniques, serving as a comprehensive resource for learning and development in the field of cryptography. Whether you're a beginner looking to understand the fundamentals or an advanced user exploring sophisticated encryption methods, this repo has something for everyone.
+This repository contains implementations of various well-known cryptographic algorithms either in C++ or in Java . These algorithms span from basic ciphers to more advanced encryption techniques, serving as a comprehensive resource for learning and development in the field of cryptography. Whether you're a beginner looking to understand the fundamentals or an advanced user exploring sophisticated encryption methods, this repo has something for everyone.
 
 ### Algorithms Included ✅:
 1. **Caesar Cipher. (Upcoming)**
